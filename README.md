@@ -98,9 +98,8 @@
 
 ## 📊 Github Stats (Expand to View) 
 
-<img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" width="50%" height="192px" align="right"/>
-<img height="192px" />
+<img align="left" width="50%" height="192px" alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" />
+<img align="right" width="50%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" />
 
 
 <p align="center">
