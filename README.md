@@ -20,15 +20,15 @@
   </a>
   &emsp; 
   <a href="https://docs.soliditylang.org/" target="_blank"> 
-    <img alt="C" src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg" width="20px">
+    <img alt="C" src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg&logoColor=white" width="30px">
   </a> 
   &emsp;
   <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img alt="C++" src="https://docs.rs/rust-logo-20210301-1.52.0-nightly-4f20caa62.png">
+    <img alt="C++" src="https://docs.rs/rust-logo-20210301-1.52.0-nightly-4f20caa62.png" width="30px">
   </a>
   &emsp;
   <a href="https://www.ruby-lang.org/" target="_blank"> 
-    <img alt="Java" src=" https://www.ruby-lang.org/images/header-ruby-logo.png">
+    <img alt="Java" src="https://image.pngaaa.com/152/769152-middle.png" width="30px">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
