@@ -19,7 +19,7 @@
   &emsp;
   <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp; 
-  <img alt="C" src="https://img.shields.io/badge/Solidity-yellow">
+  <img alt="C" src="https://img.shields.io/badge/Solidity-gray">
   &emsp;
   <img alt="C++" src="https://img.shields.io/badge/Rust-blue">
   &emsp;
@@ -39,7 +39,7 @@
   &emsp;
   <img alt="Redux" src="https://img.shields.io/badge/Redux-olive">
   &emsp; 
-  <img alt="Hooks" src="https://img.shields.io/badge/Hooks-yellow">
+  <img alt="Hooks" src="https://img.shields.io/badge/Hooks-gray">
   &emsp;
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
   &emsp;
@@ -53,7 +53,7 @@
   &emsp;
   <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
   &emsp; 
-  <img alt="" src="https://img.shields.io/badge/Truffle/Hardhat-yellow">
+  <img alt="" src="https://img.shields.io/badge/Truffle/Hardhat-gray">
   &emsp;
   <img alt="" src="https://img.shields.io/badge/ERC20/ERC721/ERC1155-blue">
   &emsp;
@@ -67,7 +67,7 @@
   &emsp;
   <img alt="" src="https://img.shields.io/badge/MongoDB-blue">
   &emsp; 
-  <img alt="" src="https://img.shields.io/badge/MySQL-yellow">
+  <img alt="" src="https://img.shields.io/badge/MySQL-gray">
   &emsp;
   <img alt="" src="https://img.shields.io/badge/AWS-blue">
   &emsp;
