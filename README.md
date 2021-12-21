@@ -14,29 +14,25 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+  </a>
+  &emsp; 
+  <a href="https://docs.soliditylang.org/" target="_blank"> 
+    <img alt="C" src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg">
+  </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <a href="https://www.rust-lang.org/" target="_blank"> 
+    <img alt="C++" src="https://docs.rs/rust-logo-20210301-1.52.0-nightly-4f20caa62.png">
+  </a>
+  &emsp;
+  <a href="https://www.ruby-lang.org/" target="_blank"> 
+    <img alt="Java" src=" https://www.ruby-lang.org/images/header-ruby-logo.png">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 </p>
 
@@ -96,7 +92,7 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
 <h1 align="center"></h1>
 <img align="left" height="150px" alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" />
