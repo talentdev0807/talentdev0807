@@ -103,7 +103,7 @@
 
 
 <p align="center"> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px"/ align="left"></a>
 &nbsp;
@@ -112,7 +112,7 @@
 
 
 <p align="center">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <b>⚡ Recent GitHub Activity</b>
   <br/>
    <a href="https://github.com/talentdev0807"><img alt="talentdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talentdev0807&custom_title=talentdev's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
