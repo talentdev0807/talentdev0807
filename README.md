@@ -15,68 +15,45 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-green">
+  &emsp;
+  <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp; 
-  <a href="https://docs.soliditylang.org/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow">
-  </a> 
+  <img alt="C" src="https://img.shields.io/badge/Solidity-yellow">
   &emsp;
-  <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/Rust-blue">
-  </a>
+  <img alt="C++" src="https://img.shields.io/badge/Rust-blue">
   &emsp;
-  <a href="https://www.ruby-lang.org/" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Ruby-blue">
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Ruby-brown">
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <img alt="React" src="https://img.shields.io/badge/React-green">
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-blue">
+  &emsp; 
+  <img alt="Hooks" src="https://img.shields.io/badge/Hooks-yellow">
+  &emsp;
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
+  &emsp;
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-brown">
 </p>
 
 ### 👉Blockchain
 <p align="left">
+  &emsp; 
+  <img alt="Ethereum/Solana" src="https://img.shields.io/badge/Ethereum/Solana-green">
   &emsp;
-    
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
+  <img alt="" src="https://img.shields.io/badge/DeFi/NFT/GameFi-blue">
+  &emsp; 
+  <img alt="" src="https://img.shields.io/badge/Truffle/-yellow">
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+  <img alt="C++" src="https://img.shields.io/badge/GraphQL-blue">
+  &emsp;
+</p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
