@@ -105,8 +105,7 @@
 <p align="center"> 
   <b>💻 GitHub Profile Stats</b>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px"/ align="left"></a>
-&nbsp;
+  <img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px"/ align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" width="50%" height="192px" align="right"/>
 </p>
 
