@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm talent dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+ %20 |%20Blockchain Developer;DeFi%20|%20NFT%20|%20GameFi%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+%20|%20Blockchain Developer;DeFi%20|%20NFT%20|%20GameFi%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a senior Web/Blockchain developer who is expert in modern JavaScript Framework and Smart Contract. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -105,16 +105,14 @@
 <p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px"/ align="left"></a>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" width="50%" height="192px" align="right"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" width="50%" height="192px"/ align="left"></a>
+&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" width="50%" height="192px" align="right"/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </p>
 
 
-<p>
+<p align="center">
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/talentdev0807"><img alt="talentdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talentdev0807&custom_title=talentdev's%20Contribution%20Graph&theme=react-dark" /></a>
