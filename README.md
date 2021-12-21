@@ -15,7 +15,7 @@
 
 <p align="left"> 
   &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-green">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
   <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp; 
@@ -31,9 +31,13 @@
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <img alt="React" src="https://img.shields.io/badge/React-green">
+  <img alt="React" src="https://img.shields.io/badge/React-indigo">
   &emsp;
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-blue">
+  <img alt="Redux" src="https://img.shields.io/badge/React Native-pink">
+  &emsp;
+  <img alt="Redux" src="https://img.shields.io/badge/Next.js-blue">
+  &emsp;
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-olive">
   &emsp; 
   <img alt="Hooks" src="https://img.shields.io/badge/Hooks-yellow">
   &emsp;
@@ -45,28 +49,29 @@
 ### 👉Blockchain
 <p align="left">
   &emsp; 
-  <img alt="Ethereum/Solana" src="https://img.shields.io/badge/Ethereum/Solana-green">
+  <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
   &emsp;
-  <img alt="" src="https://img.shields.io/badge/DeFi/NFT/GameFi-blue">
+  <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
   &emsp; 
-  <img alt="" src="https://img.shields.io/badge/Truffle/-yellow">
+  <img alt="" src="https://img.shields.io/badge/Truffle/Hardhat-yellow">
   &emsp;
-  <img alt="C++" src="https://img.shields.io/badge/GraphQL-blue">
+  <img alt="" src="https://img.shields.io/badge/ERC20/ERC721/ERC1155-blue">
   &emsp;
+  <img alt="Tailwind" src="https://img.shields.io/badge/Infura/IPFS/Metaplex-brown">
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
+  &emsp; 
+  <img alt="" src="https://img.shields.io/badge/PostgreSQL-indigo">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  <img alt="" src="https://img.shields.io/badge/MongoDB-blue">
+  &emsp; 
+  <img alt="" src="https://img.shields.io/badge/MySQL-yellow">
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  <img alt="" src="https://img.shields.io/badge/AWS-blue">
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  <img alt="" src="https://img.shields.io/badge/Heroku-brown">
  </p>
 
 ## 📊 Github Stats
