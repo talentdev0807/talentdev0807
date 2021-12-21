@@ -20,7 +20,7 @@
   </a>
   &emsp; 
   <a href="https://docs.soliditylang.org/" target="_blank"> 
-    <img alt="C" src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg">
+    <img alt="C" src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg" width="20px">
   </a> 
   &emsp;
   <a href="https://www.rust-lang.org/" target="_blank"> 
