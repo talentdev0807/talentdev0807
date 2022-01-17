@@ -81,8 +81,3 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" />
 <img height="150px" />
 <br/>  
-
-<p align="center">
-   <a href="https://github.com/talentdev0807"><img alt="talentdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talentdev0807&custom_title=talentdev's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</p>
