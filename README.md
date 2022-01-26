@@ -33,7 +33,7 @@
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
   &emsp;
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-olive">
   &emsp;
   <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
   &emsp;
