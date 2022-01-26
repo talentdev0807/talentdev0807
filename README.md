@@ -33,9 +33,11 @@
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
   &emsp;
-  <img alt="Redux" src="https://img.shields.io/badge/React Native-pink">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js">
   &emsp;
-  <img alt="Redux" src="https://img.shields.io/badge/Next.js-blue">
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
   &emsp;
   <img alt="Redux" src="https://img.shields.io/badge/Redux-olive">
   &emsp; 
