@@ -5,10 +5,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talentdev0807&label=Profile%20views&color=0e75b6&style=plastic" alt="talentdev0807" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=talentdev0807&theme=algolia" alt="talentdev0807"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
