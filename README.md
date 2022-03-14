@@ -13,15 +13,13 @@
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
-  <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp; 
-  <img alt="C" src="https://img.shields.io/badge/Solidity-gray">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
   &emsp;
-  <img alt="C++" src="https://img.shields.io/badge/Rust-blue">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
   &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/Ruby-brown">
-  &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-brown">
 </p>
 
 ### 👉 Frontend Development
@@ -40,8 +38,6 @@
   <img alt="Hooks" src="https://img.shields.io/badge/Hooks-gray">
   &emsp;
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
-  &emsp;
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-brown">
 </p>
 
 ### 👉Blockchain
@@ -50,12 +46,7 @@
   <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
   &emsp;
   <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
-  &emsp; 
-  <img alt="" src="https://img.shields.io/badge/Truffle/Hardhat-gray">
   &emsp;
-  <img alt="" src="https://img.shields.io/badge/ERC20/ERC721/ERC1155-blue">
-  &emsp;
-  <img alt="Tailwind" src="https://img.shields.io/badge/Infura/IPFS/Metaplex-brown">
 </p>
 
 ### 👉 Databases & Cloud Hosting
