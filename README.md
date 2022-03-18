@@ -3,7 +3,6 @@
 <hr/>
 <h4 align="center">I am a senior Web/Blockchain developer who is expert in modern JavaScript Framework and Smart Contract(DeFi, NFT, GameFi). I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=talentdev0807&label=Profile%20views&color=0e75b6&style=plastic" alt="talentdev0807" /> </p>
 
 ## 🛠️ My Skills
 
