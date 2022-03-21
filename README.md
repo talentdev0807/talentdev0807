@@ -47,25 +47,3 @@
   <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
   &emsp;
 </p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp; 
-  <img alt="" src="https://img.shields.io/badge/PostgreSQL-indigo">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/MongoDB-blue">
-  &emsp; 
-  <img alt="" src="https://img.shields.io/badge/MySQL-gray">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/AWS-blue">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/Heroku-brown">
- </p>
-
-## 📊 Github Stats
-
-<h1 align="center"></h1>
-<img align="left" height="150px" alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" />
-<img height="150px" />
-<br/>  
