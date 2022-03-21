@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm talent dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm a talent dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
 <h4 align="center">I am a senior Web/Blockchain developer who is expert in modern JavaScript Framework and Smart Contract(DeFi, NFT, GameFi). I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
