@@ -17,8 +17,6 @@
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
   &emsp;
   <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
-  &emsp;
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-brown">
 </p>
 
 ### 👉 Frontend Development
@@ -26,15 +24,9 @@
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
   &emsp;
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-olive">
-  &emsp;
   <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
   &emsp;
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
-  &emsp;
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-olive">
-  &emsp; 
-  <img alt="Hooks" src="https://img.shields.io/badge/Hooks-gray">
   &emsp;
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
 </p>
