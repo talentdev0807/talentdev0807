@@ -13,10 +13,10 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
-  &emsp; 
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
   &emsp;
   <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
+  &emsp; 
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
 </p>
 
 ### 👉 Frontend Development
